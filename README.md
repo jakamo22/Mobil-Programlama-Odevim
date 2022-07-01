@@ -1,1 +1,1 @@
-# Mobil-Programlama-devim
+# Mobil-Programlama-ödevim
