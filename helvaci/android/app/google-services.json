@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097044033753",
+    "project_id": "newmobileproject-c7f26",
+    "storage_bucket": "newmobileproject-c7f26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097044033753:android:d0e8eb48ed331dd7037ec8",
+        "android_client_info": {
+          "package_name": "com.berke.helvaci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097044033753-sra4kmql0ckhtsccf165daigo85c9gnp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibwF650Gzz-o7EjyyPcpxv48UyloP9Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097044033753-sra4kmql0ckhtsccf165daigo85c9gnp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
